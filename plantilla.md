@@ -10,11 +10,10 @@
 
 ## 🎯 Qué se pedía
 
-(Dos o tres líneas con tus palabras: qué había que conseguir.)
+
 
 ## ⌨️ Comandos y pasos importantes
 
-- `comando` — para qué sirve.
 
 ## 🛠️ Qué he hecho
 
@@ -22,8 +21,7 @@
 
 ## 🚩 Qué me ha fallado y cómo lo he resuelto
 
-(El mensaje de error LITERAL y qué hiciste. Si no falló nada, escribe "nada"
-— pero piénsalo dos veces antes.)
+No me dieron fallos.
 
 ## 🤔 Respuestas a las preguntas
 
@@ -38,4 +36,4 @@
 
 ## 💭 Dudas / a repasar
 
-- (lo que no te ha quedado claro)
+Todas mis dudas se resolvieron en clase.
